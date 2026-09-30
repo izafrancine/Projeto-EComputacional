@@ -38,9 +38,7 @@ credit-default-analysis/
 ## Como expandir
 
 - **Novo tópico do curso:** crie `notebooks/NN_nome_do_topico.ipynb` (numeração sequencial) e acrescente uma linha na tabela acima.
-- **Código que aparece em mais de um notebook:** mova para `src/` (novo módulo ou função) e importe no notebook, em vez de copiar células.
-- **Dados derivados** (limpeza, *features*): salve em `data/interim/` ou `data/processed/` a partir de um notebook, sem alterar `data/raw/`.
-- **Figuras:** salve em `reports/figures/` com o prefixo do notebook (`01_...`, `02_...`).
+
 
 ## Fonte
 
