@@ -33,7 +33,7 @@ credit-default-analysis/
 
 | Nº | Notebook | Conteúdo | Situação |
 |---|---|---|---|
-| 01 | `01_descricao_e_analise_univariada.ipynb` | 1.0 Problema, dados e variáveis · 1.1 Análise univariada (`EDUCATION`, `LIMIT_BAL`) | Em andamento |
+| 01 | `01_descricao_e_analise_univariada.ipynb` | 1.0 Problema, dados e variáveis · 1.1 Análise univariada · 1.2 Gráficos univariados | Concluído |
 
 ## Como expandir
 
